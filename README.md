@@ -1,7 +1,5 @@
 ######################################
 #           Jordan Whiteley          #
-######################################
-
 
 DISCLAIMER: UNIVERSITY OF OREGON:
 DO NOT USE/REPLICATE THIS REPOSITORY, YOU WILL BE FLAGGED FOR PLAGARISM.
